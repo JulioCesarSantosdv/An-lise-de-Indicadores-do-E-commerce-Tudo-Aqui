@@ -43,7 +43,7 @@ O modelo foi estruturado em formato de **Esquema Estrela (Star Schema)**, com a 
 
 ---
 
-## ⚙Estratégia da Solução
+## Estratégia da Solução
 A solução foi estruturada em **cartões de indicadores, gráficos analíticos e segmentações**, fornecendo clareza e permitindo **investigações rápidas**.  
 
 ---
