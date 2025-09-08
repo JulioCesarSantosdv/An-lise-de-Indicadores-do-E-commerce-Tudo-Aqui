@@ -91,7 +91,8 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Pedidos x Meta Anual.  
 - Pedidos x Meta Mensal (2018).  
 - Pedidos por Estado.  
-- Detalhes por Ano, Mês, Estado e Cidade.  
+- Detalhes da Quantidade de Pedidos (por Ano, Mês, Estado e Cidade) 
+- Meta de Pedidos (por Ano, Mês, Estado e Cidade) 
 
 **Segmentações:**
 - Data de Compra.  
