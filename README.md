@@ -7,7 +7,9 @@ Até então, suas decisões estratégicas eram tomadas de forma **intuitiva**, s
 
 Para mudar esse cenário, o CEO decidiu adotar a metodologia **Data Driven** e implementar uma solução de **Business Intelligence com Power BI** para embasar a tomada de decisão.  
 
-👉 O objetivo é estruturar **análises e dashboards** que permitam à diretoria monitorar indicadores essenciais do negócio e apoiar a definição de **estratégias de crescimento**.  
+👉 O objetivo é estruturar **análises e dashboards** que permitam à diretoria monitorar indicadores essenciais do negócio e apoiar a definição de **estratégias de crescimento**.
+
+**Dataset utilizado:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/code  
 
 ---
 
