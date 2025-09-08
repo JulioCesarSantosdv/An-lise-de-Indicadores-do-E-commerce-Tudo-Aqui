@@ -1,5 +1,3 @@
-# Analise-de-Indicadores-do-E-commerce-Tudo-Aqui
-Projeto da Disciplina Power BI, da formação Análise de Dados da Comunidade DS.
 
 # 📊 Business Intelligence no E-commerce **Tudo Aqui**
 
