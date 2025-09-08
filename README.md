@@ -122,7 +122,7 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 <p align="center">📊 <b>Dashboard Visão Pedidos</b></p>  
 
 <p align="center">
- <img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/df7b2667-2384-40d0-a6fe-1fa877ff5ae6" />
+ <img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/9ab1baa5-891f-4f01-9c6e-07d12e8e498b" />
 </p>
 
 ---
