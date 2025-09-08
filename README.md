@@ -40,7 +40,7 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - **Segmentação:** Categoria de Produto.  
 
 📊 **Dashboard Visão Produto**  
-<img width="963" height="502" alt="image" src="https://github.com/user-attachments/assets/3dadacdf-ec83-429a-924c-d99c8dec1d8f" />
+<img width="600" height="502" alt="image" src="https://github.com/user-attachments/assets/3dadacdf-ec83-429a-924c-d99c8dec1d8f" />
  
 
 ---
@@ -66,7 +66,7 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Status do pedido.  
 
 📊 **Dashboard Visão Pagamentos**  
-<img width="963" height="501" alt="image" src="https://github.com/user-attachments/assets/94fa9375-7cc1-46f5-bcee-99582bdb5730" />
+<img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/94fa9375-7cc1-46f5-bcee-99582bdb5730" />
 
 
 ---
@@ -93,7 +93,7 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Status do Pedido.  
 
 📊 **Dashboard Visão de Pedidos**  
-<img width="961" height="501" alt="image" src="https://github.com/user-attachments/assets/df7b2667-2384-40d0-a6fe-1fa877ff5ae6" />
+<img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/df7b2667-2384-40d0-a6fe-1fa877ff5ae6" />
 
 
 ---
