@@ -41,8 +41,11 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Quantidade de Fotos por Categoria.  
 - **Segmentação:** Categoria de Produto.  
 
-📊 **Dashboard Visão Produto**  
-<img width="600" height="502" alt="image" src="https://github.com/user-attachments/assets/3dadacdf-ec83-429a-924c-d99c8dec1d8f" />
+<p align="center">📊 <b>Dashboard Visão Produto</b></p>  
+
+<p align="center">
+  <img width="600" height="502" alt="image" src="https://github.com/user-attachments/assets/3dadacdf-ec83-429a-924c-d99c8dec1d8f" />
+</p>
  
 
 ---
@@ -67,9 +70,11 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Tipo de pagamento.  
 - Status do pedido.  
 
-📊 **Dashboard Visão Pagamentos**  
-<img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/94fa9375-7cc1-46f5-bcee-99582bdb5730" />
+<p align="center">📊 <b>Dashboard Visão Pagamentos</b></p>  
 
+<p align="center">
+  <img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/94fa9375-7cc1-46f5-bcee-99582bdb5730" />
+</p>
 
 ---
 
@@ -94,9 +99,11 @@ A solução foi estruturada em **cartões de indicadores, gráficos analíticos 
 - Estado e Cidade do Cliente.  
 - Status do Pedido.  
 
-📊 **Dashboard Visão de Pedidos**  
-<img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/df7b2667-2384-40d0-a6fe-1fa877ff5ae6" />
+<p align="center">📊 <b>Dashboard Visão Pedidos</b></p>  
 
+<p align="center">
+ <img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/df7b2667-2384-40d0-a6fe-1fa877ff5ae6" />
+</p>
 
 ---
 
