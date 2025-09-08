@@ -20,6 +20,25 @@ Para mudar esse cenário, o CEO decidiu adotar a metodologia **Data Driven** e i
 
 ---
 
+## 📐 Modelo de Dados (Schema)
+
+O modelo foi estruturado em formato de **Esquema Estrela (Star Schema)**, com a tabela fato  **Pedidos (orders)** no centro, conectada a uma tabela calendário.  
+
+| **Tabela Fato** | **Tabela Dimensão** |
+|-----------------|-----------------------|
+| **orders (pedidos)**<br>Contém os registros de pedidos realizados, funcionando como a base central do modelo.<br>**Principais campos:** `order_id`, `customer_id`, `data de compra`, `order_approved_at`. |  **calendario (tempo)**<br>Criada manualmente, não estava presente no dataset original.<br>**Campos:** `Data`, `Ano`, `Mês`, `Ano/Mês`, `Dia da Semana`, `Nome do Mês`, `Nome do Semestre`.<br>**Relacionamento:** conecta-se a **orders** via `data de compra`.<br>**Função:** é uma **tabela dimensão de tempo**, necessária para análises temporais (ex.: evolução mensal, sazonalidade, taxa de crescimento). |
+
+<p align="center">📊 <b>Modelagem dos Dados</b></p>  
+
+<p align="center">
+  <img width="817" height="319" alt="image" src="https://github.com/user-attachments/assets/3c3d7baa-b2f1-4dd2-9f50-c2863db0bcb0" />
+</p>
+
+
+
+
+---
+
 ## 📌 Premissas da Análise
 1. O projeto será desenvolvido em etapas (**Produto → Pagamentos → Pedidos → etc.**).  
 2. Os dashboards seguem as **cores e identidade visual da empresa**.  
